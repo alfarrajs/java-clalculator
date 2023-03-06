@@ -4,7 +4,7 @@
 it's open you a messegInputDialog and you put a number that's describe the sum of the two numbers above<b>(and it's keep looping until you enter the right answer)</b>
 <br>
 # if you enter a right answer?
-it's stop looping and print this messege:<br>
+it's show you this popup and stop looping <br>
 ![image](https://user-images.githubusercontent.com/77536501/223148669-eba0fe43-cfe7-40da-afff-ba88b6657312.png)
 
 
