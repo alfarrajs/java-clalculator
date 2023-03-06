@@ -15,7 +15,7 @@ it's show you this popup and keep to another question <br>
 <br>
 # Note : 
 
-- I use Random Class from java.util packge , to generate me  random  numbers
+- I used Random Class from java.util packge , to generate me  random  numbers
 
 
 
