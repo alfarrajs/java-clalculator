@@ -12,6 +12,10 @@ it's show you this popup and keep to another question <br>
 ![image](https://user-images.githubusercontent.com/77536501/223149600-cdbb727f-e312-4caf-a5a9-ee6270e4e524.png)
 <br>
 ![image](https://user-images.githubusercontent.com/77536501/223149704-1bc265ac-caa7-4568-9b10-031c61da257e.png)
+<br>
+# Note : 
+
+- I use Random Class from java.util packge , to generate me  random  numbers
 
 
 
