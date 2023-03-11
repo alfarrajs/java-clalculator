@@ -8,7 +8,7 @@ public class App{
       // random numbers in specific range  it goes from [0] to [upperbound-1]
       int upperbound = 25;
       int number1 = rand.nextInt(upperbound);
-      int number2 = rand.nextInt(upperbound)*2;
+      int number2 = rand.nextInt(upperbound)*3;
       String Answer = JOptionPane.showInputDialog(null,number1+"+"+number2+"=  ?");
       int IntAnswer = Integer.parseInt(Answer);
       String result = (number1+number2 == IntAnswer) ? "صحيحة": "خاطئة";
